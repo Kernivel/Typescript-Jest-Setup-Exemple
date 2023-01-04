@@ -1,7 +1,7 @@
 # Typescript-Jest-Setup-Exemple
 Setup for a working environment to use Jest with typescript under Node
 
-##Installation 
+## Installation 
 Use: 
 
 ```bash
@@ -18,7 +18,7 @@ npx tsc
 
 to compile typescript
 
-##Usage
+## Usage
 
 To start the tests use:
 
