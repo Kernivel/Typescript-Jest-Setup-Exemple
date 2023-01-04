@@ -1,0 +1,19 @@
+{
+  "name": "test-env",
+  "version": "1.0.0",
+  "description": "This is a place for me to test packages and ideas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node ./out/index.js"
+  },
+  "author": "Hugo REVOIS",
+  "license": "ISC",
+  "devDependencies": {
+    "@jest/globals": "^29.3.1",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
